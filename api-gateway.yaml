@@ -1,0 +1,2 @@
+#jwt:
+#  accessTokenSecretKey: ## uncomment this line and set the value to get the key
